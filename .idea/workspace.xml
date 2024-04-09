@@ -5,15 +5,95 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0820adc7-a1e1-4eb1-8093-9ac39ccbdd96" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mser/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mser/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673059222.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673059484.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673059746.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673059985.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673060233.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673060483.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673060737.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673060956.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673061176.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673061394.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673061630.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673061881.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673062111.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673062365.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673062617.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673062862.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673063093.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673063331.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673063600.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673063839.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673064068.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673064350.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673064561.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673064824.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673065069.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673065308.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673065531.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673065802.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673066067.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673066328.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673066581.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673066868.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673067136.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673067395.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673067677.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673067943.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673068187.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673068499.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673068727.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673068964.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673069229.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673069440.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673069688.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673069958.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673070223.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673070486.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673070769.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673071034.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673071284.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673071537.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673071762.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673071993.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673072237.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673072475.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673072717.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673072937.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673073168.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673073394.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673073639.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673073875.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673074117.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673074361.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673074601.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673074842.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673075128.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673075371.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673075659.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673075922.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673076165.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/features/1712673076445.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/standard.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train_list_features.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712670745291</updated>
-      <workItem from="1712670746292" duration="1988000" />
+      <workItem from="1712670746292" duration="2346000" />
     </task>
     <servers />
   </component>
