@@ -10,9 +10,9 @@
 1. 更新了requirements.txt，原文件少了一两个库
 2. 对着出错log一行一行看。输出log比较多。
 
-dataset：上传了自己解压后的dataset，和extract_features.py产生的txt文件。没有额外添加。
+dataset：上传了自己解压后的dataset，和```extract_features.py```产生的txt文件。没有额外添加。
 
-mac电脑：add_arg("use_gpu", bool, True,                       '是否使用GPU训练')，这一句改成False
+mac电脑：```add_arg("use_gpu", bool, True,                       '是否使用GPU训练')```，这一句改成```False```
 
 运行实际图
 ![img.png](img.png)
@@ -262,14 +262,11 @@ python eval.py --configs=configs/bi_lstm.yml
 python infer.py --audio_path=dataset/test.wav
 ```
 
-## 打赏作者
-
-<br/>
-<div align="center">
-<p>打赏一块钱支持一下作者</p>
-<img src="https://yeyupiaoling.cn/reward.png" alt="打赏作者" width="400">
-</div>
-
 # 参考资料
 
 1. https://github.com/yeyupiaoling/AudioClassification-Pytorch
+
+---
+
+# ref
+https://github.com/yeyupiaoling/SpeechEmotionRecognition-Pytorch
