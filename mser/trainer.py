@@ -41,9 +41,10 @@ class MSERTrainer(object):
         :param use_gpu: 是否使用GPU训练模型
         """
         if use_gpu:
-            assert (torch.cuda.is_available()), 'GPU不可用'
-            self.device = torch.device("cuda")
+            assert (torch.backends.mps.is_available()), 'GPU不可用'
+            self.device = torch.device("mps")
         else:
+            assert (torch.cuda.is_available()), '那使用CPU'
             os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
             self.device = torch.device("cpu")
         self.use_gpu = use_gpu
