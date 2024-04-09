@@ -2,14 +2,6 @@
 
 本项目是一个语音情感识别项目，使用多种的预处理方法，使用多种模型，实现了语音情感识别。
 
-**欢迎大家扫码入知识星球或者QQ群讨论，知识星球里面提供项目的模型文件和博主其他相关项目的模型文件，也包括其他一些资源。**
-
-<div align="center">
-  <img src="https://yeyupiaoling.cn/zsxq.png" alt="知识星球" width="400">
-  <img src="https://yeyupiaoling.cn/qq.png" alt="QQ群" width="400">
-</div>
-
-
 # 使用准备
 
  - Anaconda 3
